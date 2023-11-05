@@ -1,4 +1,4 @@
-# assignment
+# Assignment
 This is a test project <br>
 
 ```
